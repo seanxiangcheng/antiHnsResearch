@@ -1,0 +1,175 @@
+
+    ************ HN3 AF Ising Simulated Annealing Running ************ 
+
+      argc: 11
+      condor_exec.5298.4 -k 7 -n 107 -r 1000 -i 10 -s 19875      L = 128
+
+
+      *************  Repetition 13 Iteration 4  ************ 
+      Starting T=10.07; schedule = 6.25e-05; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -42;  CurrentMag = -2;
+      MinStateFouend = -90; MinMagFound = -46
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -46
+
+
+      *************  Repetition 154 Iteration 2  ************ 
+      Starting T=10.07; schedule = 2.50e-04; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -20;  CurrentMag = 16;
+      MinStateFouend = -88; MinMagFound = -42
+      After all, CurrentEnergy = -146;  CurrentMag = -2;
+      MinStateFouend = -148; MinMagFound = -44
+
+
+      *************  Repetition 167 Iteration 4  ************ 
+      Starting T=10.07; schedule = 6.25e-05; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -28;  CurrentMag = 12;
+      MinStateFouend = -94; MinMagFound = -42
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -46
+
+
+      *************  Repetition 186 Iteration 2  ************ 
+      Starting T=10.07; schedule = 2.50e-04; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -54;  CurrentMag = 2;
+      MinStateFouend = -86; MinMagFound = -44
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -44
+
+
+      *************  Repetition 220 Iteration 9  ************ 
+      Starting T=10.07; schedule = 1.95e-06; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -28;  CurrentMag = 4;
+      MinStateFouend = -90; MinMagFound = -42
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -50
+
+
+      *************  Repetition 243 Iteration 8  ************ 
+      Starting T=10.07; schedule = 3.91e-06; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -34;  CurrentMag = -2;
+      MinStateFouend = -90; MinMagFound = -44
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -48
+
+
+      *************  Repetition 267 Iteration 0  ************ 
+      Starting T=10.07; schedule = 1.00e-03; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -30;  CurrentMag = -6;
+      MinStateFouend = -88; MinMagFound = -42
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -42
+
+
+      *************  Repetition 304 Iteration 6  ************ 
+      Starting T=10.07; schedule = 1.56e-05; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -10;  CurrentMag = 10;
+      MinStateFouend = -88; MinMagFound = -42
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -50
+
+
+      *************  Repetition 358 Iteration 5  ************ 
+      Starting T=10.07; schedule = 3.13e-05; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -8;  CurrentMag = -20;
+      MinStateFouend = -88; MinMagFound = -44
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -44
+
+
+      *************  Repetition 425 Iteration 3  ************ 
+      Starting T=10.07; schedule = 1.25e-04; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -54;  CurrentMag = 2;
+      MinStateFouend = -90; MinMagFound = -44
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -44
+
+
+      *************  Repetition 437 Iteration 5  ************ 
+      Starting T=10.07; schedule = 3.13e-05; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = 0;  CurrentMag = 8;
+      MinStateFouend = -90; MinMagFound = -42
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -46
+
+
+      *************  Repetition 480 Iteration 0  ************ 
+      Starting T=10.07; schedule = 1.00e-03; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -38;  CurrentMag = 14;
+      MinStateFouend = -90; MinMagFound = -40
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -42
+
+
+      *************  Repetition 669 Iteration 6  ************ 
+      Starting T=10.07; schedule = 1.56e-05; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -34;  CurrentMag = -14;
+      MinStateFouend = -92; MinMagFound = -42
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -46
+
+
+      *************  Repetition 704 Iteration 8  ************ 
+      Starting T=10.07; schedule = 3.91e-06; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -30;  CurrentMag = -2;
+      MinStateFouend = -88; MinMagFound = -50
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -50
+
+
+      *************  Repetition 909 Iteration 1  ************ 
+      Starting T=10.07; schedule = 5.00e-04; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -20;  CurrentMag = -8;
+      MinStateFouend = -94; MinMagFound = -44
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -44
+
+
+      *************  Repetition 967 Iteration 5  ************ 
+      Starting T=10.07; schedule = 3.13e-05; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -20;  CurrentMag = -4;
+      MinStateFouend = -88; MinMagFound = -40
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -46
+
+
+      *************  Repetition 987 Iteration 0  ************ 
+      Starting T=10.07; schedule = 1.00e-03; 
+      Temp_now = 1.01e+01; Ending T=0.0010;
+      Starting State = 316;  StartingMag = 128; 
+      After Init, CurrentEnergy = -26;  CurrentMag = 10;
+      MinStateFouend = -88; MinMagFound = -44
+      After all, CurrentEnergy = -148;  CurrentMag = 0;
+      MinStateFouend = -148; MinMagFound = -44

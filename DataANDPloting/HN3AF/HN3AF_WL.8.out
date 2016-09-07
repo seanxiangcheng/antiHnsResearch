@@ -1,0 +1,138 @@
+
+    ************ HN3 AF Ising Wang Landau Running ************ 
+
+      argc: 9
+      condor_exec.5304.8 -k 11 -n 0 -f 80 -s 19872 
+
+ L=2048; Flatness=0.800000;
+
+ CurrentEnergy Correct = -88 
+ CurrentEnergy Correct = 62 
+ CurrentEnergy Correct = 90 
+ After Initial Steps 2.31e+09, StatesLength = 2521, MinEnergy = -2012
+ Quick_Sort Done 
+ After sort, CurrentEnergy Correct = 784 
+ After sort, CurrentEnergy Correct = 784 
+ After sort, CurrentEnergy Correct = 784 
+ New State: 3008: coming; StatesLength 2522
+ New State: 3008 added to list; Min State: -2012; CurrentState = 3008
+ 
+
+ New State: 3010: coming; StatesLength 2523
+ New State: 3010 added to list; Min State: -2012; CurrentState = 3010
+ 
+
+ New State: 3014: coming; StatesLength 2524
+ New State: 3014 added to list; Min State: -2012; CurrentState = 3014
+ 
+
+ New State: 3016: coming; StatesLength 2525
+ New State: 3016 added to list; Min State: -2012; CurrentState = 3016
+ 
+
+ New State: 3020: coming; StatesLength 2526
+ New State: 3020 added to list; Min State: -2012; CurrentState = 3020
+ 
+
+ New State: 3022: coming; StatesLength 2527
+ New State: 3022 added to list; Min State: -2012; CurrentState = 3022
+ 
+
+ New State: 3028: coming; StatesLength 2528
+ New State: 3028 added to list; Min State: -2012; CurrentState = 3028
+ 
+
+ New State: 3026: coming; StatesLength 2529
+ New State: 3026 added to list; Min State: -2012; CurrentState = 3026
+ 
+
+ New State: 3034: coming; StatesLength 2530
+ New State: 3034 added to list; Min State: -2012; CurrentState = 3034
+ 
+
+ New State: 3032: coming; StatesLength 2531
+ New State: 3032 added to list; Min State: -2012; CurrentState = 3032
+ 
+
+ New State: 3038: coming; StatesLength 2532
+ New State: 3038 added to list; Min State: -2012; CurrentState = 3038
+ 
+
+ New State: 3040: coming; StatesLength 2533
+ New State: 3040 added to list; Min State: -2012; CurrentState = 3040
+ 
+
+ New State: 3044: coming; StatesLength 2534
+ New State: 3044 added to list; Min State: -2012; CurrentState = 3044
+ 
+
+ New State: 3046: coming; StatesLength 2535
+ New State: 3046 added to list; Min State: -2012; CurrentState = 3046
+ 
+
+ New State: -2014: coming; StatesLength 2536
+ New State: -2014 added to list; Min State: -2014; CurrentState = -2014
+ 
+
+ New State: 3050: coming; StatesLength 2537
+ New State: 3050 added to list; Min State: -2014; CurrentState = 3050
+ 
+
+ New State: 3052: coming; StatesLength 2538
+ New State: 3052 added to list; Min State: -2014; CurrentState = 3052
+ 
+
+ New State: 3056: coming; StatesLength 2539
+ New State: 3056 added to list; Min State: -2014; CurrentState = 3056
+ 
+
+ New State: 3058: coming; StatesLength 2540
+ New State: 3058 added to list; Min State: -2014; CurrentState = 3058
+ 
+
+ New State: -2016: coming; StatesLength 2541
+ New State: -2016 added to list; Min State: -2016; CurrentState = -2016
+ 
+
+ New State: -2018: coming; StatesLength 2542
+ New State: -2018 added to list; Min State: -2018; CurrentState = -2018
+ 
+
+ New State: -2020: coming; StatesLength 2543
+ New State: -2020 added to list; Min State: -2020; CurrentState = -2020
+ 
+
+ New State: -2022: coming; StatesLength 2544
+ New State: -2022 added to list; Min State: -2022; CurrentState = -2022
+ 
+
+ New State: -2024: coming; StatesLength 2545
+ New State: -2024 added to list; Min State: -2024; CurrentState = -2024
+ 
+
+ New State: -2026: coming; StatesLength 2546
+ New State: -2026 added to list; Min State: -2026; CurrentState = -2026
+ 
+
+ New State: -2028: coming; StatesLength 2547
+ New State: -2028 added to list; Min State: -2028; CurrentState = -2028
+ 
+
+ New State: -2030: coming; StatesLength 2548
+ New State: -2030 added to list; Min State: -2030; CurrentState = -2030
+ 
+
+ New State: -2032: coming; StatesLength 2549
+ New State: -2032 added to list; Min State: -2032; CurrentState = -2032
+ 
+
+ New State: -2034: coming; StatesLength 2550
+ New State: -2034 added to list; Min State: -2034; CurrentState = -2034
+ 
+
+ New State: -2036: coming; StatesLength 2551
+ New State: -2036 added to list; Min State: -2036; CurrentState = -2036
+ 
+
+ New State: 3064: coming; StatesLength 2552
+ New State: 3064 added to list; Min State:

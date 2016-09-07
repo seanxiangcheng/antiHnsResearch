@@ -1,0 +1,37 @@
+%% LyX 2.0.5 created this file.  For more info, see http://www.lyx.org/.
+%% Do not edit unless you really know what you are doing.
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage[latin9]{inputenc}
+
+\makeatletter
+\newcommand{\lyxaddress}[1]{
+\par {\raggedright #1
+\vspace{1em}
+\noindent\par}
+}
+
+\makeatother
+
+\begin{document}
+
+\title{Antiferromagnetic Ising Model in Hierarchical Networks $\dag$}
+\author{Xiang Cheng and Stefan Boettcher $\ddag$}
+
+\maketitle
+\lyxaddress{Department of Physics, Emory University, Atlanta, Georgia 30322,
+USA}
+
+The Ising antiferromagnet  is a convenient model of glassy dynamics.  It can introduce geometric frustrations and may give rise to a spin glass phase and glassy relaxation at low temperatures$^1$.  We apply the antiferromagnetic Ising model to 3 hierarchical networks which share features of both small world networks and regular lattices. Their recursive and fixed structures make them suitable for exact renormalization group analysis as well as numerical simulations. We first explore the dynamical behaviors using simulated annealing and discover an extremely slow relaxation at low temperatures. Then we employ the Wang-Landau algorithm to investigate the energy landscape and the corresponding equilibrium behaviors for different system sizes. Besides the Monte Carlo methods, renormalization group$^2$ is used to study the equilibrium properties in the thermodynamic limit and to compare with the results from simulated annealing and Wang-Landau sampling.  \\
+\\
+ $\dag$ Supported through NSF grant DMR-1207431.\\
+$\ddag${http://www.physics.emory.edu/faculty/boettcher/}\\
+$^1$C. P. Herrero, Phys. Rev. E. {\bf 77}, 04112 (2008)\\
+$^2$V. Singh, C. T. Brunson, S. Boettcher, arXiv:1408.0669 (2014)
+
+%\bibliographystyle{plain}
+%\bibliography{citations}
+
+
+\footnote{Option 1: 2.6: Disordered and Glassy Systems (non-polymeric); 3.1.10: Fluctuations and Correlations far from Equilibrum (GSNP); Option 3: 3.6: Statistical Mechanics of Frustrated Systems.}
+\end{document}

@@ -1,0 +1,41 @@
+  Executable     = HN3AF_SA.x
+  Universe       = standard
+  Output         = HN3AF_SA.$(process).out
+  Log            = HN3AF_SA.$(process).log
+
+
+  Arguments      = -k 3  -n 103 -r 1000  -i 10 -s 19871
+  Queue
+
+  Arguments      = -k 4  -n 104 -r 1000  -i 10 -s 19872
+  Queue
+
+  Arguments      = -k 5  -n 105 -r 1000  -i 10 -s 19873
+  Queue
+
+  Arguments      = -k 6  -n 106 -r 1000  -i 10 -s 19874
+  Queue
+
+  Arguments      = -k 7  -n 107 -r 1000  -i 10 -s 19875
+  Queue
+
+  Arguments      = -k 8  -n 108 -r 500  -i 10 -s 19876
+  Queue
+
+  Arguments      = -k 9  -n 109 -r 500  -i 10 -s 19877
+  Queue
+
+  Arguments      = -k 10  -n 110 -r 500  -i 10 -s 19878
+  Queue
+
+  Arguments      = -k 12  -n 112 -r 300  -i 10 -s 19879
+  Queue
+
+  Arguments      = -k 14  -n 114 -r 100  -i 10 -s 19870
+  Queue
+
+  Arguments      = -k 16  -n 116 -r 20  -i 10 -s 19870
+  Queue
+
+  Arguments      = -k 17  -n 117 -r 10  -i 10 -s 19870
+  Queue

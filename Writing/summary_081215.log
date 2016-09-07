@@ -1,0 +1,712 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.6.13)  27 AUG 2015 18:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**summary_081215.tex
+(./summary_081215.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ Copyright (c) 2009 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
+ Based on work by David Carlisle <david at dcarlisle.demon.co.uk>.
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+LaTeX Info: Redefining \@centercr on input line 308.
+Class revtex4-1 Info: Repairing broken LaTeX eqnarray on input line 358.
+\eqncolsep=\skip41
+Class revtex4-1 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfoot
+note on input line 433.
+Class revtex4-1 Info: Repairing broken LateX \@sect on input line 755.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4-1 Info: Repairing broken LaTeX \@xbitor on input line 1786.
+Class revtex4-1 Info: Making \typeout \long on input line 2046.
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+\c@affil=\count81
+\c@collab=\count82
+\absbox=\box27
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+\c@linecount=\count83
+\output@latex=\toks14
+\box@size@1=\box28
+\box@size@2=\box29
+\@protection@box=\box30
+\@topmark@saved=\toks15
+\footins@saved=\box31
+\footins@recovered=\box32
+\column@recovered=\box33
+\pagesofar=\box34
+\footsofar=\box35
+\pagegrid@col=\count84
+Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
+ \\  on input line 5578.
+\c@part=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count91
+\fbox@1=\box36
+\c@table=\count92
+\fbox@2=\box37
+\c@video=\count93
+\fbox@4=\box38
+\@bibdataout=\write3
+\widetext@top=\box39
+\widetext@bot=\box40
+
+Class revtex4-1 Warning: No Society specified, using default society aps.
+
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/aps4-1.rtx
+File: aps4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for docu
+mentation)
+Class revtex4-1 Info: RevTeX society APS selected on input line 31.
+)
+Class revtex4-1 Info: Selecting journal pre on input line 7544.
+Class revtex4-1 Info: APS journal PRE selected on input line 7545.
+
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/aps10pt4-1.rtx
+File: aps10pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
+documentation)
+Class revtex4-1 Info: RevTeX pointsize 10pt selected on input line 30.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip44
+\bibsep=\skip45
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+Class revtex4-1 Info: Repairing natbib's \BibitemShut on input line 7549.
+
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/revsymb4-1.sty
+Package: revsymb4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ f
+or documentation)
+LaTeX Info: Redefining \REV@mathfrak on input line 119.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/share/texmf/tex/latex/html/latin9.def
+File: latin1.def 1998/03/05 v0.97 Input encoding file(test version: still liabl
+e to change)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Info: Redefining \frak on input line 111.
+LaTeX Info: Redefining \Bbb on input line 113.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count95
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen104
+)
+LaTeX Info: Redefining \text on input line 39.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box41
+\strutbox@=\box42
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip11
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks21
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks22
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks23
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen113
+\Hy@linkcounter=\count108
+\Hy@pagecounter=\count109
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count110
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+LaTeX Info: Redefining \href on input line 4952.
+\c@Hy@tempcnt=\count111
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen114
+\Fld@menulength=\count112
+\Field@Width=\dimen115
+\Fld@charsize=\dimen116
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count113
+\c@Item=\count114
+\c@Hfootnote=\count115
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count116
+\c@bookmark@seq@number=\count117
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip49
+)
+Class revtex4-1 Info: Patching LaTeX tabular. on input line 41.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 41.
+
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 41.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 41.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 41.
+
+(./summary_081215.aux
+
+LaTeX Warning: Label `eq:hpz0' multiply defined.
+
+)
+\openout1 = `summary_081215.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count118
+\scratchdimen=\dimen117
+\scratchbox=\box43
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen118
+\MPnumerator=\count122
+\makeMPintoPDFobject=\count123
+\everyMPtoPDFconversion=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box44
+Package hyperref Info: Link coloring OFF on input line 41.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count124
+)
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
+
+(./summary_081215.out) (./summary_081215.out)
+\@outlinefile=\write4
+\openout4 = `summary_081215.out'.
+
+Class revtex4-1 Info: Taking \maketitle back from hyperref on input line 41.
+\openout3 = `summary_081215Notes.bib'.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 64.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 64.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (6.29257pt too wide) in alignment at lines 72--80
+ [][][] []
+ []
+
+<../RG_plots/HN3_IE_rg.pdf, id=95, 520.36124pt x 501.6664pt>
+File: ../RG_plots/HN3_IE_rg.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN3_IE_rg.pdf>
+Package pdftex.def Info: ../RG_plots/HN3_IE_rg.pdf used on input line 101.
+(pdftex.def)             Requested size: 246.0pt x 237.1611pt.
+
+<../RG_plots/HN3_IE_rgmc.pdf, id=96, 340.10814pt x 289.99593pt>
+File: ../RG_plots/HN3_IE_rgmc.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN3_IE_rgmc.pdf>
+Package pdftex.def Info: ../RG_plots/HN3_IE_rgmc.pdf used on input line 106.
+(pdftex.def)             Requested size: 246.0pt x 209.76154pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../RG_plots/HN5_IE_rg.pdf, id=99, 520.36124pt x 501.6664pt>
+File: ../RG_plots/HN5_IE_rg.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN5_IE_rg.pdf>
+Package pdftex.def Info: ../RG_plots/HN5_IE_rg.pdf used on input line 118.
+(pdftex.def)             Requested size: 246.0pt x 237.1611pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../RG_plots/HN5_IE_rgmc.pdf, id=100, 340.20224pt x 289.99593pt>
+File: ../RG_plots/HN5_IE_rgmc.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN5_IE_rgmc.pdf>
+Package pdftex.def Info: ../RG_plots/HN5_IE_rgmc.pdf used on input line 124.
+(pdftex.def)             Requested size: 246.0pt x 209.70401pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../RG_plots/HN3_MagH_rg_v2.pdf, id=102, 281.22096pt x 712.89151pt>
+File: ../RG_plots/HN3_MagH_rg_v2.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN3_MagH_rg_v2.pdf>
+Package pdftex.def Info: ../RG_plots/HN3_MagH_rg_v2.pdf used on input line 134.
+
+(pdftex.def)             Requested size: 196.80075pt x 498.87924pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--139
+
+ []
+
+<../RG_plots/HN5_MagH_rg_v2.pdf, id=104, 281.21388pt x 712.89151pt>
+File: ../RG_plots/HN5_MagH_rg_v2.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN5_MagH_rg_v2.pdf>
+Package pdftex.def Info: ../RG_plots/HN5_MagH_rg_v2.pdf used on input line 145.
+
+(pdftex.def)             Requested size: 196.80075pt x 498.91188pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--150
+
+ []
+
+<../RG_plots/HN3_Cv_rg_v2.pdf, id=106, 569.47809pt x 571.22626pt>
+File: ../RG_plots/HN3_Cv_rg_v2.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN3_Cv_rg_v2.pdf>
+Package pdftex.def Info: ../RG_plots/HN3_Cv_rg_v2.pdf used on input line 156.
+(pdftex.def)             Requested size: 246.0pt x 246.7556pt.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 160.
+
+<../RG_plots/HN5_Cv_rg_v2.pdf, id=135, 569.47809pt x 571.22626pt>
+File: ../RG_plots/HN5_Cv_rg_v2.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN5_Cv_rg_v2.pdf>
+Package pdftex.def Info: ../RG_plots/HN5_Cv_rg_v2.pdf used on input line 166.
+(pdftex.def)             Requested size: 246.0pt x 246.7556pt.
+
+<../RG_plots/HN3_XT_rg.pdf, id=137, 570.3747pt x 711.88776pt>
+File: ../RG_plots/HN3_XT_rg.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN3_XT_rg.pdf>
+Package pdftex.def Info: ../RG_plots/HN3_XT_rg.pdf used on input line 174.
+(pdftex.def)             Requested size: 246.0pt x 307.03995pt.
+
+<../RG_plots/HN5_XT_rg.pdf, id=139, 570.3747pt x 711.88776pt>
+File: ../RG_plots/HN5_XT_rg.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN5_XT_rg.pdf>
+Package pdftex.def Info: ../RG_plots/HN5_XT_rg.pdf used on input line 182.
+(pdftex.def)             Requested size: 246.0pt x 307.03995pt.
+
+Overfull \hbox (6.29257pt too wide) in alignment at lines 190--198
+ [][][] []
+ []
+
+[2 <../RG_plots/HN3_IE_rg.pdf> <../RG_plots/HN3_IE_rgmc.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ../RG_plots/HN3_IE_rgmc.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <../RG_plots/HN5_IE_rg.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ../RG_plots/HN5_IE_rg.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+> <../RG_plots/HN5_IE_rgmc.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ../RG_plots/HN5_IE_rgmc.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 198.
+
+[3 <../RG_plots/HN3_MagH_rg_v2.pdf> <../RG_plots/HN5_MagH_rg_v2.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ../RG_plots/HN5_MagH_rg_v2.pdf): PDF in
+clusion: multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 198.
+
+[4 <../RG_plots/HN3_Cv_rg_v2.pdf> <../RG_plots/HN5_Cv_rg_v2.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ../RG_plots/HN5_Cv_rg_v2.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+> <../RG_plots/HN3_XT_rg.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ../RG_plots/HN3_XT_rg.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 208.
+
+<../RG_plots/HNNP_IE_rg.pdf, id=502, 570.33621pt x 571.22626pt>
+File: ../RG_plots/HNNP_IE_rg.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HNNP_IE_rg.pdf>
+Package pdftex.def Info: ../RG_plots/HNNP_IE_rg.pdf used on input line 211.
+(pdftex.def)             Requested size: 246.0pt x 246.3808pt.
+
+<../RG_plots/HNNP_IE_rgmc.pdf, id=503, 353.35686pt x 279.55693pt>
+File: ../RG_plots/HNNP_IE_rgmc.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HNNP_IE_rgmc.pdf>
+Package pdftex.def Info: ../RG_plots/HNNP_IE_rgmc.pdf used on input line 217.
+(pdftex.def)             Requested size: 246.0pt x 194.62636pt.
+
+<../RG_plots/HN6_IE_rg.pdf, id=506, 570.33621pt x 571.22626pt>
+File: ../RG_plots/HN6_IE_rg.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN6_IE_rg.pdf>
+Package pdftex.def Info: ../RG_plots/HN6_IE_rg.pdf used on input line 229.
+(pdftex.def)             Requested size: 246.0pt x 246.3808pt.
+
+<../RG_plots/HN6_IE_rgmc.pdf, id=507, 353.35686pt x 279.55693pt>
+File: ../RG_plots/HN6_IE_rgmc.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN6_IE_rgmc.pdf>
+Package pdftex.def Info: ../RG_plots/HN6_IE_rgmc.pdf used on input line 235.
+(pdftex.def)             Requested size: 246.0pt x 194.62636pt.
+
+<../RG_plots/HNNP_MagH_rg.pdf, id=509, 570.3198pt x 857.4315pt>
+File: ../RG_plots/HNNP_MagH_rg.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HNNP_MagH_rg.pdf>
+Package pdftex.def Info: ../RG_plots/HNNP_MagH_rg.pdf used on input line 245.
+(pdftex.def)             Requested size: 246.0pt x 369.83969pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--250
+
+ []
+
+<../RG_plots/HNNP_MagHz2_rg.pdf, id=511, 570.88937pt x 854.52875pt>
+File: ../RG_plots/HNNP_MagHz2_rg.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HNNP_MagHz2_rg.pdf>
+Package pdftex.def Info: ../RG_plots/HNNP_MagHz2_rg.pdf used on input line 254.
+
+(pdftex.def)             Requested size: 246.0pt x 368.22253pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--259
+
+ []
+
+File: ../RG_plots/HNNP_MagHz2_rg.pdf Graphic file (type pdf)
+<use ../RG_plots/HNNP_MagHz2_rg.pdf>
+Package pdftex.def Info: ../RG_plots/HNNP_MagHz2_rg.pdf used on input line 263.
+
+(pdftex.def)             Requested size: 246.0pt x 368.22253pt.
+
+<../RG_plots/HNNP_Cv_rg_v2.pdf, id=514, 569.50633pt x 570.88907pt>
+File: ../RG_plots/HNNP_Cv_rg_v2.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HNNP_Cv_rg_v2.pdf>
+Package pdftex.def Info: ../RG_plots/HNNP_Cv_rg_v2.pdf used on input line 273.
+(pdftex.def)             Requested size: 246.0pt x 246.59253pt.
+ [5 <../RG_plots/HN5_XT_rg.pdf> <../RG_plots/HNNP_IE_rg.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ../RG_plots/HNNP_IE_rg.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+> <../RG_plots/HNNP_IE_rgmc.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ../RG_plots/HNNP_IE_rgmc.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 277.
+
+<../RG_plots/HN6_Cv_rg.pdf, id=645, 569.50633pt x 570.93416pt>
+File: ../RG_plots/HN6_Cv_rg.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN6_Cv_rg.pdf>
+Package pdftex.def Info: ../RG_plots/HN6_Cv_rg.pdf used on input line 282.
+(pdftex.def)             Requested size: 246.0pt x 246.612pt.
+
+<../RG_plots/HNNP_XT_rg.pdf, id=647, 570.78105pt x 1000.96776pt>
+File: ../RG_plots/HNNP_XT_rg.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HNNP_XT_rg.pdf>
+Package pdftex.def Info: ../RG_plots/HNNP_XT_rg.pdf used on input line 291.
+(pdftex.def)             Requested size: 369.0pt x 647.13898pt.
+
+
+LaTeX Warning: Float too large for page by 9.88898pt on input line 294.
+
+<../RG_plots/HN6_XT_rg.pdf, id=649, 570.33578pt x 711.88776pt>
+File: ../RG_plots/HN6_XT_rg.pdf Graphic file (type pdf)
+
+<use ../RG_plots/HN6_XT_rg.pdf>
+Package pdftex.def Info: ../RG_plots/HN6_XT_rg.pdf used on input line 299.
+(pdftex.def)             Requested size: 369.0pt x 460.5925pt.
+ (./summary_081215.bbl) [6 <../RG_plots/HN6_IE_rg.pdf> <../RG_plots/HN6_IE_rgmc
+.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ../RG_plots/HN6_IE_rgmc.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <../RG_plots/HNNP_MagH_rg.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ../RG_plots/HNNP_MagH_rg.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+>] [7 <../RG_plots/HNNP_MagHz2_rg.pdf>] [8] [9 <../RG_plots/HNNP_Cv_rg_v2.pdf> 
+<../RG_plots/HN6_Cv_rg.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ../RG_plots/HN6_Cv_rg.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+>] [10 <../RG_plots/HNNP_XT_rg.pdf>] [11 <../RG_plots/HN6_XT_rg.pdf>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 309.
+
+(./summary_081215.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 309.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 309.
+Package rerunfilecheck Info: File `summary_081215.out' has not changed.
+(rerunfilecheck)             Checksum: 2854BB309F1D8A4044FFBD8C25AD1005;1516.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8063 strings out of 493304
+ 114499 string characters out of 6139871
+ 220044 words of memory out of 5000000
+ 11356 multiletter control sequences out of 15000+600000
+ 10366 words of font info for 40 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 29i,11n,28p,998b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on summary_081215.pdf (11 pages, 629908 bytes).
+PDF statistics:
+ 1043 PDF objects out of 1200 (max. 8388607)
+ 488 compressed objects within 5 object streams
+ 65 named destinations out of 1000 (max. 500000)
+ 277 words of extra memory for PDF output out of 10000 (max. 10000000)
+

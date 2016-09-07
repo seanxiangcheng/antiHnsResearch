@@ -1,0 +1,58 @@
+000 (5300.003.000) 10/28 11:37:09 Job submitted from host: <170.140.162.75:51408>
+...
+001 (5300.003.000) 10/28 17:25:41 Job executing on host: <192.168.203.4:40203>
+...
+006 (5300.003.000) 10/28 20:25:42 Image size of job updated: 11177
+...
+003 (5300.003.000) 10/28 20:25:42 Job was checkpointed.
+	Usr 0 02:59:59, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5300.003.000) 10/28 23:25:45 Job was checkpointed.
+	Usr 0 06:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5300.003.000) 10/29 02:25:50 Job was checkpointed.
+	Usr 0 09:00:02, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5300.003.000) 10/29 05:25:51 Job was checkpointed.
+	Usr 0 12:00:01, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+006 (5300.003.000) 10/29 08:25:55 Image size of job updated: 11181
+...
+003 (5300.003.000) 10/29 08:25:55 Job was checkpointed.
+	Usr 0 15:00:03, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5300.003.000) 10/29 11:25:56 Job was checkpointed.
+	Usr 0 18:00:02, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+004 (5300.003.000) 10/29 14:17:53 Job was evicted.
+	(1) Job was checkpointed.
+		Usr 0 20:51:55, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	8457394  -  Run Bytes Sent By Job
+	4536439  -  Run Bytes Received By Job
+...
+001 (5300.003.000) 10/29 14:27:59 Job executing on host: <192.168.203.30:33558>
+...
+006 (5300.003.000) 10/29 17:28:01 Image size of job updated: 11181
+...
+003 (5300.003.000) 10/29 17:28:02 Job was checkpointed.
+	Usr 0 02:59:51, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+005 (5300.003.000) 10/29 18:42:14 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 04:13:58, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 1 01:05:53, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	1982888  -  Run Bytes Sent By Job
+	5745224  -  Run Bytes Received By Job
+	10440282  -  Total Bytes Sent By Job
+	10281663  -  Total Bytes Received By Job
+...

@@ -1,0 +1,15 @@
+000 (5304.004.000) 11/07 11:45:16 Job submitted from host: <170.140.162.75:51408>
+...
+001 (5304.004.000) 11/07 11:45:33 Job executing on host: <192.168.203.9:60425>
+...
+005 (5304.004.000) 11/07 11:55:01 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:09:27, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:09:27, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	8158  -  Run Bytes Sent By Job
+	4525381  -  Run Bytes Received By Job
+	8158  -  Total Bytes Sent By Job
+	4525381  -  Total Bytes Received By Job
+...

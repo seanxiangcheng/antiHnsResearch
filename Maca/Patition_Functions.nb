@@ -1,0 +1,102 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 9.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      2589,         93]
+NotebookOptionsPosition[      2105,         71]
+NotebookOutlinePosition[      2442,         86]
+CellTagsIndexPosition[      2399,         83]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[TextData[StyleBox["Title: Derivations of <E>, <m>, Cv, \[Chi], <m^2>, \
+<m^4> from partition",
+ FontSize->18,
+ FontWeight->"Bold",
+ FontColor->GrayLevel[0]]], "Text",
+ CellChangeTimes->{{3.655216675116804*^9, 3.655216722824136*^9}, {
+  3.6552167564616833`*^9, 3.655216759791938*^9}}],
+
+Cell[TextData[StyleBox["1) Construct the Partition Function",
+ FontWeight->"Bold",
+ FontColor->RGBColor[1, 0, 0]]], "Text",
+ CellChangeTimes->{{3.6552167836766167`*^9, 3.655216861975659*^9}, {
+  3.655217267610285*^9, 3.655217280979101*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Z1", "[", 
+   RowBox[{"\[Beta]_", ",", "h_"}], "]"}], "=", 
+  RowBox[{"Exp", "[", 
+   RowBox[{
+    RowBox[{"-", "\[Beta]"}], 
+    RowBox[{"(", 
+     RowBox[{"E", "-", 
+      RowBox[{"h", "*", "m"}]}], ")"}]}], "]"}]}]], "Input",
+ CellChangeTimes->{{3.655217208954609*^9, 3.6552172111395473`*^9}, {
+  3.655217283177964*^9, 3.655217318943302*^9}, {3.6552175556005917`*^9, 
+  3.6552176258394213`*^9}}],
+
+Cell[BoxData[
+ SuperscriptBox["\[ExponentialE]", 
+  RowBox[{
+   RowBox[{"-", 
+    RowBox[{"(", 
+     RowBox[{"\[ExponentialE]", "-", 
+      RowBox[{"h", " ", "m"}]}], ")"}]}], " ", "\[Beta]"}]]], "Output",
+ CellChangeTimes->{{3.655218275470015*^9, 3.6552182755378637`*^9}}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Log", "[", "Z1", "]"}]], "Input",
+ CellChangeTimes->{{3.6552176319029007`*^9, 3.6552176343338957`*^9}}],
+
+Cell[BoxData[
+ RowBox[{"Log", "[", "Z1", "]"}]], "Output",
+ CellChangeTimes->{3.655218275566579*^9}]
+}, Open  ]]
+},
+WindowSize->{740, 599},
+WindowMargins->{{140, Automatic}, {Automatic, 42}},
+FrontEndVersion->"9.0 for Linux x86 (64-bit) (February 7, 2013)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[557, 20, 288, 6, 37, "Text"],
+Cell[848, 28, 240, 4, 31, "Text"],
+Cell[CellGroupData[{
+Cell[1113, 36, 433, 12, 32, "Input"],
+Cell[1549, 50, 273, 7, 35, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1859, 62, 127, 2, 32, "Input"],
+Cell[1989, 66, 100, 2, 32, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)

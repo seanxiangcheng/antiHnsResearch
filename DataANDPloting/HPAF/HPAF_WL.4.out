@@ -1,0 +1,68 @@
+
+    ************ HN3 AF Ising Wang Landau Running ************ 
+
+      argc: 9
+      condor_exec.5306.4 -k 7 -n 0 -f 90 -s 19871 
+
+ L=128; Flatness=0.900000;
+
+ CurrentEnergy Correct = 16 
+ CurrentEnergy Correct = 94 
+ CurrentEnergy Correct = -12 
+ Realloc Done
+ After Initial Steps 1.15e+05, StatesLength = 215, MinEnergy = -178
+ Quick_Sort Done 
+ After sort, CurrentEnergy Correct = -42 
+ After sort, CurrentEnergy Correct = -114 
+ After sort, CurrentEnergy Correct = 122 
+ New State: -180: coming; StatesLength 216
+ New State: -180 added to list; Min State: -180; CurrentState = -180
+ 
+
+ New State: -182: coming; StatesLength 217
+ New State: -182 added to list; Min State: -182; CurrentState = -182
+ 
+
+ logf=5.0e-01; Sweeps=5.2e+03; [minH,meanH,maxH]=[2.2e+03, 2.3e+03, 2.4e+03]
+ New State: -184: coming; StatesLength 218
+ New State: -184 added to list; Min State: -184; CurrentState = -184
+ 
+
+ New State: -186: coming; StatesLength 219
+ New State: -186 added to list; Min State: -186; CurrentState = -186
+ 
+
+ logf=5.0e-01; Sweeps=3.2e+04; [minH,meanH,maxH]=[7.9e+03, 8.6e+03, 9.4e+03]
+ logf=2.5e-01; Sweeps=6.6e+04; [minH,meanH,maxH]=[1.9e+04, 1.9e+04, 2.1e+04]
+ logf=1.2e-01; Sweeps=9.8e+04; [minH,meanH,maxH]=[1.8e+04, 1.9e+04, 2.1e+04]
+ logf=6.2e-02; Sweeps=1.5e+05; [minH,meanH,maxH]=[3.0e+04, 3.1e+04, 3.4e+04]
+ logf=3.1e-02; Sweeps=3.8e+05; [minH,meanH,maxH]=[1.3e+05, 1.3e+05, 1.5e+05]
+ logf=1.6e-02; Sweeps=5.8e+05; [minH,meanH,maxH]=[1.2e+05, 1.2e+05, 1.3e+05]
+ logf=7.8e-03; Sweeps=7.1e+05; [minH,meanH,maxH]=[7.8e+04, 7.8e+04, 8.7e+04]
+ logf=3.9e-03; Sweeps=7.6e+05; [minH,meanH,maxH]=[2.6e+04, 2.7e+04, 3.0e+04]
+ logf=2.0e-03; Sweeps=1.0e+06; [minH,meanH,maxH]=[1.4e+05, 1.4e+05, 1.6e+05]
+ logf=9.8e-04; Sweeps=1.1e+06; [minH,meanH,maxH]=[4.1e+04, 4.2e+04, 4.6e+04]
+ logf=4.9e-04; Sweeps=1.2e+06; [minH,meanH,maxH]=[6.9e+04, 7.0e+04, 7.8e+04]
+ logf=2.4e-04; Sweeps=1.2e+06; [minH,meanH,maxH]=[1.6e+04, 1.8e+04, 1.9e+04]
+ logf=1.2e-04; Sweeps=1.3e+06; [minH,meanH,maxH]=[5.6e+04, 5.9e+04, 6.6e+04]
+ logf=6.1e-05; Sweeps=1.4e+06; [minH,meanH,maxH]=[3.6e+04, 3.9e+04, 4.3e+04]
+ logf=3.1e-05; Sweeps=1.4e+06; [minH,meanH,maxH]=[1.6e+04, 1.8e+04, 2.0e+04]
+ logf=1.5e-05; Sweeps=1.6e+06; [minH,meanH,maxH]=[8.6e+04, 9.2e+04, 1.0e+05]
+ logf=7.6e-06; Sweeps=1.8e+06; [minH,meanH,maxH]=[1.4e+05, 1.5e+05, 1.6e+05]
+ logf=3.8e-06; Sweeps=2.4e+06; [minH,meanH,maxH]=[3.2e+05, 3.3e+05, 3.7e+05]
+ logf=1.9e-06; Sweeps=2.6e+06; [minH,meanH,maxH]=[1.2e+05, 1.3e+05, 1.5e+05]
+ logf=9.5e-07; Sweeps=2.9e+06; [minH,meanH,maxH]=[1.2e+05, 1.3e+05, 1.5e+05]
+ logf=4.8e-07; Sweeps=2.9e+06; [minH,meanH,maxH]=[4.1e+04, 4.5e+04, 5.0e+04]
+ logf=2.4e-07; Sweeps=3.4e+06; [minH,meanH,maxH]=[2.3e+05, 2.5e+05, 2.6e+05]
+ logf=1.2e-07; Sweeps=3.5e+06; [minH,meanH,maxH]=[7.1e+04, 7.8e+04, 8.6e+04]
+ logf=6.0e-08; Sweeps=8.8e+06; [minH,meanH,maxH]=[2.8e+06, 3.1e+06, 3.2e+06]
+ logf=3.0e-08; Sweeps=9.0e+06; [minH,meanH,maxH]=[1.1e+05, 1.2e+05, 1.3e+05]
+ logf=1.5e-08; Sweeps=9.2e+06; [minH,meanH,maxH]=[1.1e+05, 1.2e+05, 1.3e+05]
+ logf=7.5e-09; Sweeps=1.1e+07; [minH,meanH,maxH]=[8.8e+05, 9.7e+05, 1.0e+06]
+
+ MinState: -186; 
+ MaxState: 254; 
+ States Length: 219; 
+ Total MC steps: 1.0843e+07;     
+ Total random steps: 1.3879e+09; 
+ 

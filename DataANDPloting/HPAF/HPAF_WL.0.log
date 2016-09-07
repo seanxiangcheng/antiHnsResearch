@@ -1,0 +1,44 @@
+000 (5306.000.000) 11/07 11:52:09 Job submitted from host: <170.140.162.75:51408>
+...
+001 (5306.000.000) 11/07 14:55:25 Job executing on host: <192.168.203.27:52550>
+...
+005 (5306.000.000) 11/07 14:55:29 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:03, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:03, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	3929  -  Run Bytes Sent By Job
+	4526558  -  Run Bytes Received By Job
+	3929  -  Total Bytes Sent By Job
+	4526558  -  Total Bytes Received By Job
+...
+000 (5307.000.000) 11/09 11:34:57 Job submitted from host: <170.140.162.75:51408>
+...
+001 (5307.000.000) 11/09 11:35:03 Job executing on host: <192.168.203.14:49867>
+...
+006 (5307.000.000) 11/09 14:35:02 Image size of job updated: 10737
+...
+003 (5307.000.000) 11/09 14:35:02 Job was checkpointed.
+	Usr 0 02:59:50, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5307.000.000) 11/09 17:35:05 Job was checkpointed.
+	Usr 0 05:59:44, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5307.000.000) 11/09 20:35:05 Job was checkpointed.
+	Usr 0 08:59:35, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+005 (5307.000.000) 11/09 20:52:41 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 09:17:10, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 09:17:10, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	2295388  -  Run Bytes Sent By Job
+	4527378  -  Run Bytes Received By Job
+	2295388  -  Total Bytes Sent By Job
+	4527378  -  Total Bytes Received By Job
+...

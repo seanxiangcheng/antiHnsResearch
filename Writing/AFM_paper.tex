@@ -1,0 +1,112 @@
+%% LyX 2.1.1 created this file.  For more info, see http://www.lyx.org/.
+%% Do not edit unless you really know what you are doing.
+\documentclass[twocolumn,pre, reprint, nofootinbib]{revtex4-1}
+\usepackage[latin9]{inputenc}
+\setcounter{secnumdepth}{3}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{amsmath}
+
+
+\newcommand\blfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+\makeatletter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
+%% Because html converters don't know tabularnewline
+\providecommand{\tabularnewline}{\\}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Textclass specific LaTeX commands.
+% Fix a couple of bugs in REVTeX 4.1
+\def\lovname{List of Videos}
+\@ifundefined{textcolor}{}
+{
+ \definecolor{BLACK}{gray}{0}
+ \definecolor{WHITE}{gray}{1}
+ \definecolor{RED}{rgb}{1,0,0}
+ \definecolor{GREEN}{rgb}{0,1,0}
+ \definecolor{BLUE}{rgb}{0,0,1}
+ \definecolor{CYAN}{cmyk}{1,0,0,0}
+ \definecolor{MAGENTA}{cmyk}{0,1,0,0}
+ \definecolor{YELLOW}{cmyk}{0,0,1,0}
+}
+
+\makeatother
+
+\begin{document}
+
+\title{Anti-ferromagnetic Ising Model in Hierarchical Networks }
+
+
+\author{Xiang Cheng and Stefan Boettcher}
+
+\affiliation{Department of Physics, Emory University, Atlanta, GA 30322, USA}
+\begin{abstract}
+The Ising antiferromagnet  is a convenient model of glassy dynamics.  It can introduce geometric frustrations and may give rise to a spin glass phase and glassy relaxation at low temperatures.  We apply the antiferromagnetic Ising model to 4 hierarchical networks which share features of both small world networks and regular lattices. Their recursive and fixed structures make them suitable for exact renormalization group analysis as well as numerical simulations. We first explore the dynamical behaviors using simulated annealing and discover an extremely slow relaxation at low temperatures. Then we employ renormalization group to study the equilibrium properties in the thermodynamic limit with a range of bond strengthes, and we found paramagnetic phase, spin glass phase, ferromagnetic phase, and chaotic behavior in different networks. Moreover, a rich phase diagram is proposed based on the transitions points among these phases. 
+\smallskip 
+\end{abstract}
+
+\maketitle
+
+\section{Introduction}
+\label{sec:intro} 
+\begin{itemize}
+  \item Spin glass and chaotic behavior in spin glass models;
+  \item Antiferromagnetic Ising Model;
+  \item Our work: hierarchical networks, renormalization group, rich phase and glassy dynamics;
+\end{itemize}
+
+\section{Model}
+\begin{itemize}
+  \item Antiferromagnetic Ising Model;
+  \item Hierarchical networks;
+\end{itemize}
+
+
+\section{Monte Carlo Methods and the dynamics}
+\subsection{Simulated Annealing}
+
+\subsection{Wang-Landau Sampling}
+
+\subsection{Dynamics of different networks}
+\begin{itemize}
+  \item Slow dynamics;
+  \item Power-law behavior; 
+  \item Computational complexity $\leftrightarrow$ geometic frustration;
+  \item We need renormalization group to learn more about the equlibrium, spin glass, and chaos. 
+\end{itemize}
+
+
+\section{ Renormalization Group }
+\subsection{HN3, HN5, and their interpolations}
+\subsubsection{RG setup and procedures}
+\subsubsection{Fixed point analysis}
+\subsubsection{Phase diagram of transitions from paramagnetic to ferromagnetic phases}
+
+\subsection{HNNP, HN6, and their interpolations}
+\label{sec:HNNPRG}
+\subsubsection{RG setup and procedures}
+\subsubsection{Fixed point analysis}
+\subsubsection{Chaotic Behaviors: fixed points, free energy crossing, chaotic exponent}
+\subsubsection{Phase diagram of transitions among paramagnetic, ferromagnetic, and spin glass phases}
+
+
+
+\section{ Conculsion }
+\begin{itemize}
+  \item Interesting model and network;
+  \item Strong ferromagnetic bonds in AFM system lead to FM-like transition; 
+  \item Spin glass phases and interesting chaotic behavior;
+  \item Phase diagram and chaotic exponents.
+\end{itemize}
+
+
+\bibliographystyle{apsrev4-1}
+%\bibliography{Jamming}
+\bibliography{cheng}
+
+\end{document}

@@ -1,0 +1,76 @@
+000 (5305.009.000) 11/07 11:47:56 Job submitted from host: <170.140.162.75:51408>
+...
+001 (5305.009.000) 11/07 14:31:38 Job executing on host: <192.168.203.18:44059>
+...
+006 (5305.009.000) 11/07 17:31:41 Image size of job updated: 11057
+...
+003 (5305.009.000) 11/07 17:31:41 Job was checkpointed.
+	Usr 0 02:59:52, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/07 20:31:44 Job was checkpointed.
+	Usr 0 05:59:45, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/07 23:31:48 Job was checkpointed.
+	Usr 0 08:59:37, Sys 0 00:00:03  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/08 02:31:51 Job was checkpointed.
+	Usr 0 11:59:30, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/08 05:31:51 Job was checkpointed.
+	Usr 0 14:59:14, Sys 0 00:00:06  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/08 08:31:52 Job was checkpointed.
+	Usr 0 17:59:06, Sys 0 00:00:06  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/08 11:31:56 Job was checkpointed.
+	Usr 0 20:59:00, Sys 0 00:00:07  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/08 14:31:55 Job was checkpointed.
+	Usr 0 23:58:49, Sys 0 00:00:09  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/08 17:31:59 Job was checkpointed.
+	Usr 1 02:58:45, Sys 0 00:00:10  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/08 20:32:00 Job was checkpointed.
+	Usr 1 05:58:35, Sys 0 00:00:11  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/08 23:32:04 Job was checkpointed.
+	Usr 1 08:58:30, Sys 0 00:00:12  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/09 02:32:07 Job was checkpointed.
+	Usr 1 11:58:25, Sys 0 00:00:13  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/09 05:32:11 Job was checkpointed.
+	Usr 1 14:58:12, Sys 0 00:00:14  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/09 08:32:12 Job was checkpointed.
+	Usr 1 17:58:03, Sys 0 00:00:15  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+003 (5305.009.000) 11/09 11:32:15 Job was checkpointed.
+	Usr 1 20:57:57, Sys 0 00:00:16  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+...
+004 (5305.009.000) 11/09 11:34:12 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	16243802  -  Run Bytes Sent By Job
+	4530045  -  Run Bytes Received By Job
+...
+009 (5305.009.000) 11/09 11:34:13 Job was aborted by the user.
+	via condor_rm (by user Xiang)
+...

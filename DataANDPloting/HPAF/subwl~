@@ -1,0 +1,20 @@
+  Executable     = HPAF_WL.x
+  Universe       = standard
+  Output         = HPAF_WL.$(process).out
+  Log            = HPAF_WL.$(process).log
+
+
+  Arguments      = -k 9  -n 0 -f 83 -s 19871
+  Queue
+
+  Arguments      = -k 10  -n 0 -f 83 -s 19872
+  Queue
+
+  Arguments      = -k 11  -n 0 -f 80 -s 19873
+  Queue
+
+  Arguments      = -k 12  -n 0 -f 80 -s 19874
+  Queue
+ 
+ 
+ 

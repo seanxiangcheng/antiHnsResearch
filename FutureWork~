@@ -1,0 +1,7 @@
+1. distribution/histogram of kappa ------> distribution of J, where kappa = exp(-beta J)
+
+2. Find the transition mu where kappa is chaotic for smaller temperature; 
+   using eigenvalue of Jacobian 
+
+3. if possible, look into staggered magnetization;
+ 

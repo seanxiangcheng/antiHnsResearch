@@ -1,0 +1,126 @@
+
+    ************ HN3 AF Ising Wang Landau Running ************ 
+
+      argc: 9
+      condor_exec.5306.7 -k 10 -n 0 -f 80 -s 19872 
+
+ L=1024; Flatness=0.800000;
+
+ CurrentEnergy Correct = 80 
+ CurrentEnergy Correct = -290 
+ CurrentEnergy Correct = -56 
+ Realloc Done
+ After Initial Steps 1.05e+07, StatesLength = 1751, MinEnergy = -1466
+ Quick_Sort Done 
+ After sort, CurrentEnergy Correct = -710 
+ After sort, CurrentEnergy Correct = -24 
+ After sort, CurrentEnergy Correct = 694 
+ New State: 2030: coming; StatesLength 1752
+ New State: 2030 added to list; Min State: -1466; CurrentState = 2030
+ 
+
+ New State: 2032: coming; StatesLength 1753
+ New State: 2032 added to list; Min State: -1466; CurrentState = 2032
+ 
+
+ New State: 2038: coming; StatesLength 1754
+ New State: 2038 added to list; Min State: -1466; CurrentState = 2038
+ 
+
+ New State: 2036: coming; StatesLength 1755
+ New State: 2036 added to list; Min State: -1466; CurrentState = 2036
+ 
+
+ New State: -1468: coming; StatesLength 1756
+ New State: -1468 added to list; Min State: -1468; CurrentState = -1468
+ 
+
+ New State: -1470: coming; StatesLength 1757
+ New State: -1470 added to list; Min State: -1470; CurrentState = -1470
+ 
+
+ New State: -1472: coming; StatesLength 1758
+ New State: -1472 added to list; Min State: -1472; CurrentState = -1472
+ 
+
+ New State: -1474: coming; StatesLength 1759
+ New State: -1474 added to list; Min State: -1474; CurrentState = -1474
+ 
+
+ New State: -1476: coming; StatesLength 1760
+ New State: -1476 added to list; Min State: -1476; CurrentState = -1476
+ 
+
+ New State: -1478: coming; StatesLength 1761
+ New State: -1478 added to list; Min State: -1478; CurrentState = -1478
+ 
+
+ New State: -1480: coming; StatesLength 1762
+ New State: -1480 added to list; Min State: -1480; CurrentState = -1480
+ 
+
+ New State: -1482: coming; StatesLength 1763
+ New State: -1482 added to list; Min State: -1482; CurrentState = -1482
+ 
+
+ New State: -1484: coming; StatesLength 1764
+ New State: -1484 added to list; Min State: -1484; CurrentState = -1484
+ 
+
+ New State: -1486: coming; StatesLength 1765
+ New State: -1486 added to list; Min State: -1486; CurrentState = -1486
+ 
+
+ New State: -1488: coming; StatesLength 1766
+ New State: -1488 added to list; Min State: -1488; CurrentState = -1488
+ 
+
+ New State: -1490: coming; StatesLength 1767
+ New State: -1490 added to list; Min State: -1490; CurrentState = -1490
+ 
+
+ New State: -1492: coming; StatesLength 1768
+ New State: -1492 added to list; Min State: -1492; CurrentState = -1492
+ 
+
+ New State: -1494: coming; StatesLength 1769
+ New State: -1494 added to list; Min State: -1494; CurrentState = -1494
+ 
+
+ New State: -1496: coming; StatesLength 1770
+ New State: -1496 added to list; Min State: -1496; CurrentState = -1496
+ 
+
+ logf=5.0e-01; Sweeps=7.2e+06; [minH,meanH,maxH]=[1.3e+06, 1.5e+06, 1.9e+06]
+ logf=2.5e-01; Sweeps=9.6e+06; [minH,meanH,maxH]=[1.3e+06, 1.3e+06, 1.7e+06]
+ New State: -1498: coming; StatesLength 1771
+ New State: -1498 added to list; Min State: -1498; CurrentState = -1498
+ 
+
+ logf=5.0e-01; Sweeps=2.4e+07; [minH,meanH,maxH]=[7.2e+06, 8.1e+06, 8.1e+06]
+ New State: -1500: coming; StatesLength 1772
+ New State: -1500 added to list; Min State: -1500; CurrentState = -1500
+ 
+
+ logf=5.0e-01; Sweeps=3.0e+07; [minH,meanH,maxH]=[2.6e+06, 3.0e+06, 3.0e+06]
+ logf=2.5e-01; Sweeps=3.8e+07; [minH,meanH,maxH]=[4.2e+06, 5.1e+06, 6.1e+06]
+ logf=1.2e-01; Sweeps=1.1e+08; [minH,meanH,maxH]=[1.4e+07, 1.7e+07, 1.7e+07]
+ New State: -1502: coming; StatesLength 1773
+ New State: -1502 added to list; Min State: -1502; CurrentState = -1502
+ 
+
+ logf=5.0e-01; Sweeps=1.6e+08; [minH,meanH,maxH]=[1.4e+07, 1.7e+07, 1.7e+07]
+ New State: -1504: coming; StatesLength 1774
+ New State: -1504 added to list; Min State: -1504; CurrentState = -1504
+ 
+
+ logf=5.0e-01; Sweeps=1.8e+08; [minH,meanH,maxH]=[8.3e+06, 1.0e+07, 1.1e+07]
+ New State: -1506: coming; StatesLength 1775
+ New State: -1506 added to list; Min State: -1506; CurrentState = -1506
+ 
+
+ New State: -1508: coming; StatesLength 1776
+ New State: -1508 added to list; Min State: -1508; CurrentState = -1508
+ 
+
+ logf=5.0e-
